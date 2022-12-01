@@ -1,0 +1,10 @@
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.config
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csprojAssemblyReference.cache
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Form1.resources
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Properties.Resources.resources
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.GenerateResource.cache
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
+C:\Users\nilsp\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb
